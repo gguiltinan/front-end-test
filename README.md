@@ -1,4 +1,4 @@
-#This is repository for my code in response to the "Candiate Assessment Questions".
+#Repository for response to the "Front End Developer Candiate Assessment Questions"
 
 The directory bst will contain the Binary Search Tree exercise.
 
